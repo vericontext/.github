@@ -4,13 +4,13 @@ PR Narrative Risk Intelligence Platform
 
 ## About
 
-VeriContext는 PR/커뮤니케이션팀을 위한 "서사/확산" 인텔리전스 제품입니다.
+VeriContext is a "narrative/amplification" intelligence product for PR and communication teams.
 
-YouTube와 뉴스 미디어의 서사를 분석하여:
-- 📊 Narrative Frame 분석
-- 🔍 Cross-platform 비교 (YouTube vs News)
-- ⚠️ PR 리스크 조기 감지
-- 📄 Daily Brief 자동 생성
+Analyzing narratives from YouTube and news media:
+- 📊 Narrative Frame Analysis
+- 🔍 Cross-platform Comparison (YouTube vs News)
+- ⚠️ Early PR Risk Detection
+- 📄 Automated Daily Brief Generation
 
 ## Tech Stack
 
@@ -26,8 +26,7 @@ YouTube와 뉴스 미디어의 서사를 분석하여:
 
 ## Links
 
-- [Documentation](https://github.com/vericontext/vericontext)
-- [Issues](https://github.com/vericontext/vericontext/issues)
+- Repository: [vericontext/vericontext](https://github.com/vericontext/vericontext) (Private)
 
 ## Contact
 
