@@ -1,33 +1,49 @@
 # VeriContext
 
-PR Narrative Risk Intelligence Platform
+> **Engineering Truth & Context for the AI Era.**
+> We build the infrastructure where AI meets verifiable reality.
 
-## About
+---
 
-VeriContext is a "narrative/amplification" intelligence product for PR and communication teams.
+## 🚀 Launching Soon
 
-Analyzing narratives from YouTube and news media:
-- 📊 Narrative Frame Analysis
-- 🔍 Cross-platform Comparison (YouTube vs News)
-- ⚠️ Early PR Risk Detection
-- 📄 Automated Daily Brief Generation
+### [Framlit](https://framlit.app)
+**Describe → Animate. The Programmatic Video Platform.**
 
-## Tech Stack
+Stop editing manually. Framlit turns your ideas into motion graphics instantly using code-based templates.
+* **Core:** AI-Generated React Remotion Code → MP4.
+* **Impact:** 4 hours of work → 10 minutes.
+* **Launch:** 🗓️ **Next Week**
 
-- **Frontend**: Next.js (TypeScript)
-- **Backend**: FastAPI (Python)
-- **Database**: PostgreSQL + pgvector
-- **Infrastructure**: GCP Cloud Run
-- **AI/ML**: OpenAI API, Vector Search
+---
 
-## Status
+## 🧪 Labs & Research
+*Exploring the intersection of Data, AI, and Real-time Infrastructure.*
 
-🚧 Currently in development
+### ⚡ StreamFlux
+**The "Vercel for Real-time Data".**
+* **Mission:** AI that sees, controls, and acts on real-time streams.
+* **Stack:** Go (WebSocket), TypeScript, MCP Agents.
 
-## Links
+### 🧠 DataContext
+**AI-Native Database Context Ecosystem.**
+* **Mission:** Bridging the gap between DB schemas and AI understanding.
+* **Stack:** MCP Server, VS Code Extension, Knowledge Graph.
 
-- Repository: [vericontext/vericontext](https://github.com/vericontext/vericontext) (Private)
+### 👗 RefitAura
+**Generative AI Virtual Fitting.**
+* **Mission:** Mobile-first fashion synthesis using Gemini & Lykdat.
+* **Status:** Beta (B2C/Enterprise).
 
-## Contact
+---
 
-For inquiries, please open an issue or contact the maintainer.
+## 🛠 Tech Stack
+* **AI:** MCP, OpenAI, Claude, Gemini
+* **Core:** Next.js, Go, Python, StreamSets, Supabase
+* **Infra:** Vercel, Railway, Docker
+
+---
+
+<div align="center">
+  <sub>© 2026 VeriContext.</sub>
+</div>
