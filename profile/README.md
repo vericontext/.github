@@ -9,7 +9,6 @@ We build the infrastructure where AI meets verifiable reality.
 [![Contextix](https://img.shields.io/badge/Contextix-Live-blue?style=for-the-badge)](https://contextix.io)
 [![StreamPick](https://img.shields.io/badge/StreamPick-Live-blue?style=for-the-badge)](https://streampick.io)
 [![IncomeLens](https://img.shields.io/badge/IncomeLens-Live-blue?style=for-the-badge)](https://incomelens.app)
-[![RefitAura](https://img.shields.io/badge/Refit_Aura-Live-blue?style=for-the-badge)](https://www.refitaura.com)
 [![VibeFrame](https://img.shields.io/badge/VibeFrame-Open_Source-green?style=for-the-badge)](https://vibeframe.ai)
 
 </div>
@@ -66,16 +65,6 @@ Salary percentile, cost of living, tax brackets, retirement projector — powere
 <tr>
 <td width="50%" valign="top">
 
-### [Refit Aura](https://www.refitaura.com)
-**AI Virtual Try-On**
-
-Mobile-first fashion synthesis — detect items and see yourself in new outfits.
-
-`Next.js` `Firebase` `Gemini API` `Lykdat`
-
-</td>
-<td width="50%" valign="top">
-
 ### [VibeFrame](https://vibeframe.ai)
 **AI-Native Video Editing** &nbsp; [![MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/vericontext/vibeframe)
 
@@ -84,12 +73,16 @@ CLI-first, MCP-ready. Edit videos with natural language. 262+ tests passing.
 `Node.js` `FFmpeg` `MCP` `Claude` `Gemini` `OpenAI`
 
 </td>
+<td width="50%" valign="top">
+</td>
 </tr>
 </table>
 
 ---
 
 ## In Development
+
+**[Refit Aura](https://www.refitaura.com)** — AI virtual try-on. Mobile-first fashion synthesis using Gemini & Lykdat.
 
 **Company Pulse** — *"Should I Join This Company?"*<br>
 AI-powered corporate analysis using Korean public data APIs (DART, NPS, KIPRIS, WorkNet). DART CLI (83 endpoints) implemented.
