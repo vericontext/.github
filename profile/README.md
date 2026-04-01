@@ -2,92 +2,70 @@
 
 # VeriContext
 
-**Engineering Truth & Context for the AI Era.**<br>
+**Engineering Truth & Context for the AI Era**<br>
 We build the infrastructure where AI meets verifiable reality.
 
-[![Framlit](https://img.shields.io/badge/Framlit-Live-blue?style=for-the-badge)](https://framlit.app)
-[![Contextix](https://img.shields.io/badge/Contextix-Live-blue?style=for-the-badge)](https://contextix.io)
-[![StreamPick](https://img.shields.io/badge/StreamPick-Live-blue?style=for-the-badge)](https://streampick.io)
-[![IncomeLens](https://img.shields.io/badge/IncomeLens-Live-blue?style=for-the-badge)](https://incomelens.app)
-[![VibeFrame](https://img.shields.io/badge/VibeFrame-Open_Source-green?style=for-the-badge)](https://vibeframe.ai)
+<br>
+
+[![Framlit](https://img.shields.io/badge/Framlit-Live-0969da?style=flat-square)](https://framlit.app)
+[![Contextix](https://img.shields.io/badge/Contextix-Live-0969da?style=flat-square)](https://contextix.io)
+[![StreamPick](https://img.shields.io/badge/StreamPick-Live-0969da?style=flat-square)](https://streampick.io)
+[![IncomeLens](https://img.shields.io/badge/IncomeLens-Live-0969da?style=flat-square)](https://incomelens.app)
+[![VibeFrame](https://img.shields.io/badge/VibeFrame-Open_Source-2da44e?style=flat-square)](https://vibeframe.ai)
+[![QueryPad](https://img.shields.io/badge/QueryPad-Open_Source-2da44e?style=flat-square)](https://querypad.io)
+[![MockSnap](https://img.shields.io/badge/MockSnap-Open_Source-2da44e?style=flat-square)](https://mocksnap.dev)
 
 </div>
 
----
+<br>
 
 ## Live Products
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> Commercial products built and operated by VeriContext.
 
-### [Framlit](https://framlit.app)
-**The Video Collaboration Platform**
-
-Developers build Remotion templates. Marketers customize via AI chat — no coding required.
-
+**[Framlit](https://framlit.app)** — The Video Collaboration Platform<br>
+Developers build Remotion templates. Marketers customize via AI chat — no coding required.<br>
 `Next.js` `Supabase` `Claude AI` `Remotion` `AWS Lambda`
 
-</td>
-<td width="50%" valign="top">
-
-### [Contextix](https://contextix.io)
-**AI Cross-Domain Insight Agents**
-
-4-stage autonomous pipeline covering [Crypto](https://crypto.contextix.io) · [AI](https://ai.contextix.io) · Media · Econ.
-
+**[Contextix](https://contextix.io)** — AI Cross-Domain Insight Agents<br>
+4-stage autonomous pipeline covering [Crypto](https://crypto.contextix.io) · [AI](https://ai.contextix.io) · Media · Econ.<br>
 `Next.js 15` `Claude Code Agents` `Supabase` `GitHub Actions`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [StreamPick](https://streampick.io)
-**Korean OTT Unified Guide**
-
-All 7 platforms in one place — weekly digest, trending, new releases, expiring soon.
-
+**[StreamPick](https://streampick.io)** — Korean OTT Unified Guide<br>
+All 7 platforms in one place — weekly digest, trending, new releases, expiring soon.<br>
 `Next.js` `TMDB API` `Streaming Availability API` `Vercel`
 
-</td>
-<td width="50%" valign="top">
-
-### [IncomeLens](https://incomelens.app)
-**Financial Calculator Tools**
-
-Salary percentile, cost of living, tax brackets, retirement projector — powered by BLS data.
-
+**[IncomeLens](https://incomelens.app)** — Financial Calculator Tools<br>
+Salary percentile, cost of living, tax brackets, retirement projector — powered by BLS data.<br>
 `Next.js 16` `TypeScript` `shadcn/ui` `Recharts`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### [VibeFrame](https://vibeframe.ai)
-**AI-Native Video Editing** &nbsp; [![MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/vericontext/vibeframe)
+## Open Source
 
-CLI-first, MCP-ready. Edit videos with natural language. 262+ tests passing.
+> Community-driven tools — contributions welcome.
 
+**[VibeFrame](https://vibeframe.ai)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/vibeframe?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/vibeframe) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/vibeframe/blob/main/LICENSE)<br>
+AI-Native Video Editing — CLI-first, MCP-ready. Edit videos with natural language.<br>
 `Node.js` `FFmpeg` `MCP` `Claude` `Gemini` `OpenAI`
 
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
+**[QueryPad](https://querypad.io)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/querypad?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/querypad) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/querypad/blob/main/LICENSE)<br>
+Browser-Native SQL Playground — Drop files, query with SQL, visualize and share. No server, no signup.<br>
+`Next.js` `DuckDB-Wasm` `PartyKit` `Monaco Editor` `Claude AI`
 
----
+**[MockSnap](https://mocksnap.dev)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/mocksnap?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/mocksnap) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/mocksnap/blob/main/LICENSE)<br>
+AI Mock API Generator — Paste JSON, describe in words, or drop an OpenAPI spec. Live REST + GraphQL in seconds.<br>
+`Next.js` `Claude AI` `SQLite` `GraphQL` `Fly.io`
+
+<br>
 
 ## In Development
 
 **[Refit Aura](https://www.refitaura.com)** — AI virtual try-on. Mobile-first fashion synthesis using Gemini & Lykdat.
 
-**Company Pulse** — *"Should I Join This Company?"*<br>
-AI-powered corporate analysis using Korean public data APIs (DART, NPS, KIPRIS, WorkNet). DART CLI (83 endpoints) implemented.
+**Company Pulse** — *"Should I Join This Company?"* AI-powered corporate analysis using Korean public data APIs (DART, NPS, KIPRIS, WorkNet).
 
----
+<br>
 
 ## Tech Stack
 
@@ -107,6 +85,8 @@ AI-powered corporate analysis using Korean public data APIs (DART, NPS, KIPRIS, 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 </div>
 
