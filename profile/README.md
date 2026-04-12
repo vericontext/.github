@@ -14,6 +14,9 @@ We build the infrastructure where AI meets verifiable reality.
 [![VibeFrame](https://img.shields.io/badge/VibeFrame-Open_Source-2da44e?style=flat-square)](https://vibeframe.ai)
 [![QueryPad](https://img.shields.io/badge/QueryPad-Open_Source-2da44e?style=flat-square)](https://querypad.io)
 [![MockSnap](https://img.shields.io/badge/MockSnap-Open_Source-2da44e?style=flat-square)](https://mocksnap.dev)
+[![RawToWise](https://img.shields.io/badge/RawToWise-Open_Source-2da44e?style=flat-square)](https://github.com/vericontext/rawtowise)
+[![Snact](https://img.shields.io/badge/Snact-Open_Source-2da44e?style=flat-square)](https://github.com/vericontext/snact)
+[![Parsemux](https://img.shields.io/badge/Parsemux-Open_Source-2da44e?style=flat-square)](https://parsemux.com)
 
 </div>
 
@@ -57,6 +60,18 @@ Browser-Native SQL Playground — Drop files, query with SQL, visualize and shar
 AI Mock API Generator — Paste JSON, describe in words, or drop an OpenAPI spec. Live REST + GraphQL in seconds.<br>
 `Next.js` `Claude AI` `SQLite` `GraphQL` `Fly.io`
 
+**[RawToWise](https://github.com/vericontext/rawtowise)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/rawtowise?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/rawtowise) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/rawtowise/blob/main/LICENSE)<br>
+LLM Knowledge Compiler — Drop raw documents, get a structured markdown wiki with backlinks.<br>
+`Python` `Claude AI` `Markdown`
+
+**[Snact](https://github.com/vericontext/snact)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/snact?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/snact) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/snact/blob/main/LICENSE)<br>
+AI Agent-Optimized Browser CLI — snap + act. One command returns page structure for LLM-driven browser control.<br>
+`Rust` `Chromium` `CDP`
+
+**[Parsemux](https://parsemux.com)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/parsemux?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/parsemux) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/parsemux/blob/main/LICENSE)<br>
+Document Parser Orchestrator — Auto-routes to the optimal OSS parser. CLI, REST API, MCP server, Web UI.<br>
+`Python` `PyMuPDF` `Kreuzberg` `Docling` `MCP`
+
 <br>
 
 ## In Development
@@ -85,6 +100,8 @@ AI Mock API Generator — Paste JSON, describe in words, or drop an OpenAPI spec
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
