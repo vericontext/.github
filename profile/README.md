@@ -2,16 +2,13 @@
 
 # VeriContext
 
-**Engineering Truth & Context for the AI Era**<br>
-We build the infrastructure where AI meets verifiable reality.
+**Open Source Infrastructure for the AI Era**<br>
+We build tools that help AI systems work with verifiable context.
 
 <br>
 
-[![Framlit](https://img.shields.io/badge/Framlit-Live-0969da?style=flat-square)](https://framlit.app)
-[![Contextix](https://img.shields.io/badge/Contextix-Live-0969da?style=flat-square)](https://contextix.io)
-[![StreamPick](https://img.shields.io/badge/StreamPick-Live-0969da?style=flat-square)](https://streampick.io)
-[![IncomeLens](https://img.shields.io/badge/IncomeLens-Live-0969da?style=flat-square)](https://incomelens.app)
 [![VibeFrame](https://img.shields.io/badge/VibeFrame-Open_Source-2da44e?style=flat-square)](https://vibeframe.ai)
+[![VibeStudio](https://img.shields.io/badge/VibeStudio-Open_Source-2da44e?style=flat-square)](https://vericontext.github.io/vibestudio/)
 [![QueryPad](https://img.shields.io/badge/QueryPad-Open_Source-2da44e?style=flat-square)](https://querypad.io)
 [![MockSnap](https://img.shields.io/badge/MockSnap-Open_Source-2da44e?style=flat-square)](https://mocksnap.dev)
 [![RawToWise](https://img.shields.io/badge/RawToWise-Open_Source-2da44e?style=flat-square)](https://github.com/vericontext/rawtowise)
@@ -22,28 +19,6 @@ We build the infrastructure where AI meets verifiable reality.
 
 <br>
 
-## Live Products
-
-> Commercial products built and operated by VeriContext.
-
-**[Framlit](https://framlit.app)** — The Video Collaboration Platform<br>
-Developers build Remotion templates. Marketers customize via AI chat — no coding required.<br>
-`Next.js` `Supabase` `Claude AI` `Remotion` `AWS Lambda`
-
-**[Contextix](https://contextix.io)** — AI Cross-Domain Insight Agents<br>
-4-stage autonomous pipeline covering [Crypto](https://crypto.contextix.io) · [AI](https://ai.contextix.io) · Media · Econ.<br>
-`Next.js 15` `Claude Code Agents` `Supabase` `GitHub Actions`
-
-**[StreamPick](https://streampick.io)** — Korean OTT Unified Guide<br>
-All 7 platforms in one place — weekly digest, trending, new releases, expiring soon.<br>
-`Next.js` `TMDB API` `Streaming Availability API` `Vercel`
-
-**[IncomeLens](https://incomelens.app)** — Financial Calculator Tools<br>
-Salary percentile, cost of living, tax brackets, retirement projector — powered by BLS data.<br>
-`Next.js 16` `TypeScript` `shadcn/ui` `Recharts`
-
-<br>
-
 ## Open Source
 
 > Community-driven tools — contributions welcome.
@@ -51,6 +26,10 @@ Salary percentile, cost of living, tax brackets, retirement projector — powere
 **[VibeFrame](https://vibeframe.ai)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/vibeframe?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/vibeframe) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/vibeframe/blob/main/LICENSE)<br>
 AI-Native Video Editing — CLI-first, MCP-ready. Edit videos with natural language.<br>
 `Node.js` `FFmpeg` `MCP` `Claude` `Gemini` `OpenAI`
+
+**[VibeStudio](https://vericontext.github.io/vibestudio/)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/vibestudio?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/vibestudio) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/vibestudio/blob/main/LICENSE)<br>
+Local-first AI video studio for character sheets, storyboard drafts, and Seedance reference-to-video workflows.<br>
+`Next.js` `TypeScript` `VibeFrame CLI` `OpenAI` `fal.ai` `Cloudflare R2`
 
 **[QueryPad](https://querypad.io)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/querypad?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/querypad) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/querypad/blob/main/LICENSE)<br>
 Browser-Native SQL Playground — Drop files, query with SQL, visualize and share. No server, no signup.<br>
@@ -71,14 +50,6 @@ AI Agent-Optimized Browser CLI — snap + act. One command returns page structur
 **[Parsemux](https://parsemux.com)** &nbsp; [![GitHub](https://img.shields.io/github/stars/vericontext/parsemux?style=flat-square&label=%E2%98%85&color=e3b341)](https://github.com/vericontext/parsemux) [![MIT](https://img.shields.io/badge/MIT-2da44e?style=flat-square)](https://github.com/vericontext/parsemux/blob/main/LICENSE)<br>
 Document Parser Orchestrator — Auto-routes to the optimal OSS parser. CLI, REST API, MCP server, Web UI.<br>
 `Python` `PyMuPDF` `Kreuzberg` `Docling` `MCP`
-
-<br>
-
-## In Development
-
-**[Refit Aura](https://www.refitaura.com)** — AI virtual try-on. Mobile-first fashion synthesis using Gemini & Lykdat.
-
-**Company Pulse** — *"Should I Join This Company?"* AI-powered corporate analysis using Korean public data APIs (DART, NPS, KIPRIS, WorkNet).
 
 <br>
 
